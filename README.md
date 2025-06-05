@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Book Review API
 
 A RESTful API built with Node.js, Express, and MongoDB to manage a simple book review system. The API supports user registration, authentication using JWT, book listings, and one-review-per-user functionality.
@@ -119,3 +120,6 @@ Make sure to include the JWT token as `Bearer <token>` in the Authorization head
 ## 📎 License
 
 This project is open-source and free to use.
+=======
+# book-review-api
+>>>>>>> b7f16a175bddee538e3d6a1bad674c7ec2d0cf13
